@@ -1,0 +1,14 @@
+#
+d = 2.
+e = 7 8 A 3 M d D.
+b = 190 76 A.
+c = 1 1 A.
+d = c.
+? b e D 3 M.
+a = 7 7 M 2 A.
+b = 17 18 D.
+b = b 4 A 3 A.
+? b 7 A.
+e = d d A d M d A d M 5 A.
+? e 1 A.
+#

@@ -1,0 +1,33 @@
+d = 1.
+? d.
+#
+d = 11 2 M.
+e = 1 2 A d D 9 A.
+? d e A.
+d = 5.
+e = 4 3 A.
+#
+? 1 1 A.
+a = 3 4 M 2 D.
+? a a A 2 M.
+#
+a = 5 6 M.
+? a a M 1 A.
+b = 1 a A 4 D.
+a = b 1 A.
+b = b a D.
+b = b 5 A 7 M 3 D.
+? b.
+? a a M c D.
+? 1 1 A 2 D.
+#
+a = 5.
+#
+a = 1.
+? 1 1 A a A.
+#
+c = 2 2 M 3 A.
+#
+c = 1.
+#
+a = c 1 A 4 M.

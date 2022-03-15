@@ -1,0 +1,40 @@
+d = 1 1 A.
+? d d A.
+#
+d = 11 2 M 1 A.
+e = 24 20 A d D 1 M.
+d = d 3 A 2 A.
+? d e A.
+? d.
+d = d d D.
+d = d e A.
+? d.
+#
+? 1 1 A 1 A.
+c = 3 a A 2 D.
+? c c A 2 M.
+#
+c = 3 4 M 2 D.
+? c.
+#
+d = 1 1 A.
+#
+b = c 2 M.
+#
+a = 7 6 M 2 M 3 M.
+? a.
+#
+a = 2 2 M.
+? a.
+c = 12 25 A.
+? c a D.
+? b b M.
+b = 1 c A 4 D.
+c = b 1 A.
+a = b c D 2 A.
+? b.
+b = c c D 111 A.
+? b.
+? 1 1 A 2 D 1 M.
+#
+a = 5.
